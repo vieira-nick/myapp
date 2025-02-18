@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Um aplicativo sobre planetas
 
 ## Getting Started
 
